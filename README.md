@@ -18,8 +18,10 @@
   g00364787-proj2018-datanormalised.png  . . . . . .Saved picture of above dataset normalized  
   g00364787-proj2018-datashifted.png . . . . . . . .Saved picture of above dataset shifted so that the median is at '0'  
 
-  GMIT-2018-PROJECT--PROG-FOR-D-A--19670005606.pdf  The specification of the project  
+  GMIT-2018-PROJECT--PROG-FOR-D-A--19670005606.pdf The PDF file upon which this project is based  
   
+  GMIT-2018-PROJECT-SPEC-PROG-FOR-D-A.pdf  . . . . The project specification
+
   .gitignore . . . . . . . . . . . . . . . . . . . .GIT ignore file  
   LICENSE    . . . . . . . . . . . . . . . . . . . .GNU LICENSE  
   
