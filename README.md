@@ -2,6 +2,9 @@
  <pre>
   Student ID G00364787
   
+  This project was written on Jupyter Notebook  v5.0.0.
+  Jupyter Notebook is part of Python 3.6.3 |Anaconda, Inc.
+  
   The files in this depository are as follows:
   
   README.md    . . . . . . . . . . . . . . . . . . .This file  
@@ -23,5 +26,4 @@
   proj2018-dataactual.csv  . . . . . . . . . . . . .Older version of dataset CSV files mentioned above	  
   proj2018-datanormalised.csv  . . . . . . . . . . .Older version of dataset CSV files mentioned above  
   proj2018-datashifted.csv . . . . . . . . . . . . .Older version of dataset CSV files mentioned above  
-  
 </pre>
