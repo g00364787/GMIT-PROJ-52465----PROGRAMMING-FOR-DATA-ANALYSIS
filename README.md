@@ -14,7 +14,7 @@
   GMIT-2018-PROJECT--PROG-FOR-D-A--19670005606.pdf  The specification of the project  
   
   .gitignore . . . . . . . . . . . . . . . . . . . .GIT ignore file  
-  LICENSE 	 . . . . . . . . . . . . . . . . . . . .GNU LICENSE  
+  LICENSE    . . . . . . . . . . . . . . . . . . . .GNU LICENSE  
   
   proj2018-dataactual.csv  . . . . . . . . . . . . .Older version of Dataset CSV files mentioned above	  
   proj2018-datanormalised.csv  . . . . . . . . . . .Older version of Dataset CSV files mentioned above  
